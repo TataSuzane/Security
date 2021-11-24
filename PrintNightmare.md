@@ -1,7 +1,7 @@
 CVE-2021-1675
 
-cube0x0 RCE - https://github.com/cube0x0/CVE-2021-1675
-calebstewart LPE - https://github.com/calebstewart/CVE-2021-1675
+> cube0x0 RCE - https://github.com/cube0x0/CVE-2021-1675  
+> calebstewart LPE - https://github.com/calebstewart/CVE-2021-1675  
 
 Install and run Impacket
 > pip3 uninstall impacket
